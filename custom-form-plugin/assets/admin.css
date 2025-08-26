@@ -1,0 +1,12 @@
+.cfp-set, .cfp-topic {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.cfp-emails input {
+    display: block;
+    margin-bottom: 5px;
+}
+.cfp-agreement {
+    margin-bottom: 5px;
+}
