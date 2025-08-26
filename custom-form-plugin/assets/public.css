@@ -1,0 +1,16 @@
+.cfp-form-wrapper {
+    max-width: 400px;
+    margin: 20px 0;
+}
+.cfp-form-wrapper input,
+.cfp-form-wrapper textarea,
+.cfp-form-wrapper select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.cfp-success {
+    color: green;
+    margin-bottom: 10px;
+}
